@@ -1,3 +1,10 @@
+This project create password with yup schema (handling validation form) using formik library for handling states and submitting & validation,
+Checking what do you want for this creation of password and enter length of password that you want --->> string or number or lowercase or uppercase or all of that !,
+then submit these data and in the end copy pass which you are created .
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
